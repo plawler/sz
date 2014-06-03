@@ -1,0 +1,4 @@
+org/sz/homework/core/Student.class
+org/sz/homework/rest/StudentResource.class
+org/sz/homework/HomeworkConfiguration.class
+org/sz/homework/HomeworkApplication.class

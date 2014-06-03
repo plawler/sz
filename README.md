@@ -3,7 +3,7 @@ Summary
 
 This is a sample application that illustrates how OpenRefine and a simple RESTful service work together to transform and validate student data.
 
-addA companion design document (if you have been granted access) can be found here - https://docs.google.com/document/d/17A7Marb2jEk-S3hL0kDmhontH5HEbayI28wDqxGdN3I/edit?usp=sharing
+A companion design document (if you have been granted access) can be found here - https://docs.google.com/document/d/17A7Marb2jEk-S3hL0kDmhontH5HEbayI28wDqxGdN3I/edit?usp=sharing
 
 Prerequisites
 =============

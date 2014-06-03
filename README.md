@@ -17,19 +17,19 @@ Java
 Instructions
 ============
 
-# Download, install and run OpenRefine http://openrefine.org/download.html (pay attention to OS instructions)
-# Clone this repo
-# In the directory where cloned, run `mvn package`
-# Start the API service run `java -jar target/sz_poc-0.0.1-SNAPSHOT.jar server`
-# Create a new project in OpenRefine and choose the assessment_data.txt file
+1. Download, install and run OpenRefine http://openrefine.org/download.html (pay attention to OS instructions)
+2. Clone this repo
+3. In the directory where cloned, run `mvn package`
+4. Start the API service run `java -jar target/sz_poc-0.0.1-SNAPSHOT.jar server`
+5. Create a new project in OpenRefine and choose the assessment_data.txt file
     - select `CSV / TSV / separator-based files`
     - choose `commas` radio button
     - click `Create Project >>`
-# In left pane click on `Undo / Redo`
+6. In left pane click on `Undo / Redo`
     - click the `Apply...` button
     - select all of the text from the operations.json file in the repo root directory and paste it in the window
     - click `Perform Operations`
-# The resulting data should match the target structure defined by the assignment
+7. The resulting data should match the target structure defined by the assignment
 
 Output
 ======

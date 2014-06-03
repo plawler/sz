@@ -21,13 +21,13 @@ Instructions
 2. Clone this repo
 3. In the directory where cloned, run `mvn package`
 4. Start the API service run `java -jar target/sz_poc-0.0.1-SNAPSHOT.jar server`
-5. Create a new project in OpenRefine and choose the assessment_data.txt file
+5. Create a new project in OpenRefine and choose the `assessment_data.txt` file
     - select `CSV / TSV / separator-based files`
     - choose `commas` radio button
     - click `Create Project >>`
 6. In left pane click on `Undo / Redo`
     - click the `Apply...` button
-    - select all of the text from the operations.json file in the repo root directory and paste it in the window
+    - select all of the text from the `operations.json` file in the repo root directory and paste it in the window
     - click `Perform Operations`
 7. The resulting data should match the target structure defined by the assignment
 

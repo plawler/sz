@@ -20,7 +20,7 @@ Instructions
 ============
 
 1. Download, install and run OpenRefine http://openrefine.org/download.html (pay attention to OS instructions)
-2. Clone this repo
+2. Clone this repo https://github.com/plawler/sz.git
 3. In the directory where cloned, run `mvn package`
 4. Start the API service run `java -jar target/sz_poc-0.0.1-SNAPSHOT.jar server`
 5. Create a new project in OpenRefine and choose the `assessment_data.txt` file
